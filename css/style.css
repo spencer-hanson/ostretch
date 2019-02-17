@@ -375,7 +375,7 @@ img {
     .header_area .navbar .nav .nav-item {
       margin-right: 45px; }
       .header_area .navbar .nav .nav-item .nav-link {
-        font: 500 12px/100px "Roboto", sans-serif;
+        font: 500 18px/100px "Roboto", sans-serif;
         text-transform: uppercase;
         color: #fff;
         padding: 0px;
@@ -484,10 +484,11 @@ img {
     line-height: 70px;
     color: #222222; }
   .header_area .navbar-right .primary_btn {
-    min-width: 135px;
+      font: 500 18px/100px "Roboto", sans-serif;
+    min-width: 200px;
     text-transform: uppercase;
-    border-radius: 50px;
-    line-height: 40px; }
+    border-radius: 70px;
+    line-height: 60px; }
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
@@ -506,9 +507,11 @@ img {
       vertical-align: middle;
       align-self: center; }
     .home_banner_area .banner_inner .banner_content {
+
       text-align: left;
       color: #fff;
-      margin-left: 70px; }
+      margin-left: 0px;
+    }
       .home_banner_area .banner_inner .banner_content h2 {
         margin-top: 0px;
         font-size: 60px;
