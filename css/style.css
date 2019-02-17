@@ -361,7 +361,7 @@ img {
   top: 0;
   left: 0;
   z-index: 9999;
-  background: #61a0c0; }
+  background: #2c2172; }
   .header_area .navbar-brand {
     margin-right: 30px; }
   .header_area .menu_nav {
@@ -495,7 +495,7 @@ img {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/bground.png) no-repeat center center;
+  background: url(../img/banner/bground2.jpg) no-repeat center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%; }
